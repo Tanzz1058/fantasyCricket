@@ -1,0 +1,17 @@
+.SelectedPlayersList {
+  border: 2px solid black;
+  box-sizing: border-box;
+  height: 400px;
+  width: 350px;
+  margin-left: 60px;
+}
+.SelectedPlayersList li{
+  list-style: none;
+  margin-bottom: 4px
+}
+
+@media (max-width:950px){
+  .SelectedPlayersList{
+    width: 95%;
+  }
+}

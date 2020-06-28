@@ -1,0 +1,12 @@
+.radioButton{
+  display: flex;
+  padding: 4px;
+  margin-bottom: 20px
+}
+.radioButton input{
+  margin: 4px;
+  cursor: pointer;
+}
+.radioButton label{
+  margin: 2px;
+}

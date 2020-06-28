@@ -1,0 +1,17 @@
+.PlayersList{
+  border: 2px solid black;
+  box-sizing: border-box;
+  height: 300px;
+  width: 200px;
+  margin-left: 60px;
+}
+.PlayersList li{
+  list-style: none;
+  margin-bottom: 4px
+}
+
+@media (max-width:950px){
+  .PlayersList{
+    width: 95%;
+  }
+}

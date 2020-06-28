@@ -1,0 +1,8 @@
+.select{
+  display: inline-block;
+  height: 40px;
+  width: 120px;
+  border: 2px solid black;
+  margin-left: 40px;
+  margin-right: 40px;
+}

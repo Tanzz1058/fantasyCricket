@@ -1,0 +1,14 @@
+.SelectionItems ul{
+  display: flex;
+}
+
+.SelectionItems li{
+  list-style: none;
+  margin: 6px 30px;
+}
+
+@media (max-width: 750px) {
+  .SelectionItems ul{
+    flex-flow: column
+  }
+}
